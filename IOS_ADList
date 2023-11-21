@@ -19,13 +19,13 @@
 ||analytics.meituan.net^
 ||flowplus.meituan.net^
 ||pd.meiutuan.net^
-||s3plus.meiutuan.net/.*/brandcpt-vedio/.*time
+||s3plus.meiutuan.net^
 ||apimobile.meiutuan.com^
 ||pddisplay.meiutuan.net^
 ||cbd.meituan.com^
-||wmapi.meiutuan.com/api/v7/loadInfo
-||wmapi.meiutuan.com/api/v7/openscreen
-||wmapi.meiutuan.com/api/v7/startpicture
+||wmapi.meiutuan.com/api/v7/loadInfo^
+||wmapi.meiutuan.com/api/v7/openscreen^
+||wmapi.meiutuan.com/api/v7/startpicture^
 ||ad.eapi^
 ||log.eapi^
 ||interface.music.163.com^
