@@ -27,6 +27,8 @@
 ||s3plus.meiutuan.net/.*/brandcpt-vedio/.*time
 ||apimobile.meiutuan.com^
 ||pddisplay.meiutuan.net^
+||p*.meituan.net^
+||cbd.meituan.com^
 ||wmapi.meiutuan.com/api/v7/loadInfo
 ||wmapi.meiutuan.com/api/v7/openscreen
 ||wmapi.meiutuan.com/api/v7/startpicture
